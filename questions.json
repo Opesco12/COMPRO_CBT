@@ -1,0 +1,1172 @@
+{
+  "examTitle": "Civil Service / Public Service Promotion CBT Test",
+  "category": "Civil Service General Knowledge / Public Service Rule",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "What is the primary function of the Federal Civil Service Commission in Nigeria?",
+      "options": {
+        "A": "To manage military appointments",
+        "B": "To regulate university education",
+        "C": "To appoint, promote and discipline civil servants",
+        "D": "To oversee state government operations"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 2,
+      "question": "When was the Federal Civil Service Commission of Nigeria established?",
+      "options": {
+        "A": "1954",
+        "B": "1960",
+        "C": "1963",
+        "D": "1979"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 3,
+      "question": "Who has the power to appoint the chairman of the Federal Civil Service Commission?",
+      "options": {
+        "A": "Chief Justice",
+        "B": "Senate",
+        "C": "President",
+        "D": "National Assembly"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 4,
+      "question": "Which Nigerian Constitution provides for the establishment of the Federal Civil Service Commission?",
+      "options": {
+        "A": "1960 Constitution",
+        "B": "1979 Constitution",
+        "C": "1989 Constitution",
+        "D": "1999 Constitution"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 5,
+      "question": "The Civil Service is primarily responsible for which of the following?",
+      "options": {
+        "A": "Law making",
+        "B": "Policy execution",
+        "C": "Law enforcement",
+        "D": "Judicial interpretation"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 6,
+      "question": "What is the tenure of office for a Federal Civil Service Commissioner in Nigeria?",
+      "options": {
+        "A": "2 years",
+        "B": "3 years",
+        "C": "5 years",
+        "D": "10 years"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 7,
+      "question": "Which of these is NOT a function of the Federal Civil Service Commission?",
+      "options": {
+        "A": "Recruitment into civil service",
+        "B": "Training of civil servants",
+        "C": "Promotion of civil servants",
+        "D": "Disciplinary control of civil servants"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 8,
+      "question": "Who heads a Federal Ministry in Nigeria?",
+      "options": {
+        "A": "Director-General",
+        "B": "Permanent Secretary",
+        "C": "Minister",
+        "D": "Civil Service Officer"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 9,
+      "question": "Which of the following categories of officers is exempted from FCSC appointment procedures?",
+      "options": {
+        "A": "Clerical staff",
+        "B": "Police officers",
+        "C": "Administrative officers",
+        "D": "Executive officers"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 10,
+      "question": "What is the official website domain extension for the Nigerian Federal Government?",
+      "options": {
+        "A": ".ng",
+        "B": ".gov.ng",
+        "C": ".fed.ng",
+        "D": ".org.ng"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 11,
+      "question": "In which Nigerian capital is the headquarters of the Federal Civil Service Commission located?",
+      "options": {
+        "A": "Lagos",
+        "B": "Kaduna",
+        "C": "Abuja",
+        "D": "Enugu"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 12,
+      "question": "Civil servants are expected to be politically neutral. This principle is referred to as:",
+      "options": {
+        "A": "Political apathy",
+        "B": "Political neutrality",
+        "C": "Bureaucratic independence",
+        "D": "Administrative loyalty"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 13,
+      "question": "Which of these bodies assists in the regulation and control of the civil service structure?",
+      "options": {
+        "A": "Federal Executive Council",
+        "B": "Federal Character Commission",
+        "C": "Ministry of Finance",
+        "D": "Nigerian Bar Association"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 14,
+      "question": "Which organ of government supervises the activities of the Federal Civil Service Commission?",
+      "options": {
+        "A": "Executive",
+        "B": "Judiciary",
+        "C": "Legislature",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 15,
+      "question": "Who is the administrative head of a Federal Ministry in Nigeria?",
+      "options": {
+        "A": "Commissioner",
+        "B": "Minister",
+        "C": "Director-General",
+        "D": "Permanent Secretary"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 16,
+      "question": "The Civil Service is part of which arm of government?",
+      "options": {
+        "A": "Executive",
+        "B": "Legislative",
+        "C": "Judicial",
+        "D": "Electoral"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 17,
+      "question": "The retirement age for civil servants in Nigeria is typically:",
+      "options": {
+        "A": "60 years or 30 years of service",
+        "B": "65 years or 40 years of service",
+        "C": "55 years or 20 years of service",
+        "D": "70 years or 35 years of service"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 18,
+      "question": "The Federal Civil Service Commission reports directly to which authority?",
+      "options": {
+        "A": "National Assembly",
+        "B": "Head of Civil Service",
+        "C": "President",
+        "D": "Office of the Auditor General"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 19,
+      "question": "Promotions within the Civil Service are usually based on:",
+      "options": {
+        "A": "Tribal affiliation",
+        "B": "Religious beliefs",
+        "C": "Political loyalty",
+        "D": "Merit and seniority"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Which of these documents is crucial for employment through the FCSC?",
+      "options": {
+        "A": "Bank statement",
+        "B": "Tax clearance",
+        "C": "Birth certificate",
+        "D": "Letter of recommendation"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 21,
+      "question": "What document outlines the duties and responsibilities of civil servants?",
+      "options": {
+        "A": "Employee Handbook",
+        "B": "Public Service Rules",
+        "C": "Constitution",
+        "D": "Administrative Manual"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 22,
+      "question": "Which grade level does a fresh graduate with a Bachelor's degree typically start at in the Nigerian Civil Service?",
+      "options": {
+        "A": "Grade Level 06",
+        "B": "Grade Level 07",
+        "C": "Grade Level 08",
+        "D": "Grade Level 09"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 23,
+      "question": "The Federal Civil Service Commission is made up of how many commissioners, including the chairman?",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "13"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 24,
+      "question": "Which examination body is often used to test applicants into the Civil Service?",
+      "options": {
+        "A": "JAMB",
+        "B": "WAEC",
+        "C": "NECO",
+        "D": "FCSC"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 25,
+      "question": "What is the title of the highest-ranking civil servant in the Nigerian public service?",
+      "options": {
+        "A": "Chief Clerk",
+        "B": "Director-General",
+        "C": "Head of the Civil Service of the Federation",
+        "D": "Secretary-General"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 26,
+      "question": "Which principle ensures that appointments in the Civil Service reflect the federal character of Nigeria?",
+      "options": {
+        "A": "Equity Doctrine",
+        "B": "Federalism Rule",
+        "C": "Federal Character Principle",
+        "D": "State Inclusion Policy"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 27,
+      "question": "Who is responsible for issuing circulars that guide the conduct of civil servants?",
+      "options": {
+        "A": "Minister of Labour",
+        "B": "Head of Service",
+        "C": "Senate",
+        "D": "Civil Service Commission"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 28,
+      "question": "The Civil Service Reform of 1988 introduced what major change?",
+      "options": {
+        "A": "Abolition of ministries",
+        "B": "Political appointment of permanent secretaries",
+        "C": "Privatization of the civil service",
+        "D": "Decentralization of power to states"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 29,
+      "question": "What is the main reason for periodic civil service reforms?",
+      "options": {
+        "A": "To reduce workforce",
+        "B": "To improve efficiency",
+        "C": "To save cost",
+        "D": "To eliminate ministries"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 30,
+      "question": "The Civil Service Code of Conduct prohibits:",
+      "options": {
+        "A": "Voting",
+        "B": "Belonging to a religion",
+        "C": "Holding political office",
+        "D": "Taking loans"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 31,
+      "question": "What is the minimum educational qualification for employment into the Federal Civil Service?",
+      "options": {
+        "A": "First School Leaving Certificate",
+        "B": "National Diploma",
+        "C": "SSCE",
+        "D": "Bachelor's Degree"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 32,
+      "question": "The Civil Service is guided by which of the following ethics?",
+      "options": {
+        "A": "Disobedience",
+        "B": "Corruption",
+        "C": "Impartiality",
+        "D": "Partisanship"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 33,
+      "question": "Civil Service efficiency is usually assessed through:",
+      "options": {
+        "A": "Age",
+        "B": "Ethnicity",
+        "C": "Performance appraisal",
+        "D": "Uniform worn"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 34,
+      "question": "The FCSC can discipline civil servants through:",
+      "options": {
+        "A": "Warning letters only",
+        "B": "Suspension, demotion, dismissal",
+        "C": "Termination alone",
+        "D": "Public announcement"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 35,
+      "question": "Which type of employment is mostly offered by the Civil Service?",
+      "options": {
+        "A": "Freelance",
+        "B": "Permanent and pensionable",
+        "C": "Temporary only",
+        "D": "Volunteer"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 36,
+      "question": "What is the Civil Service Promotion Examination meant to evaluate?",
+      "options": {
+        "A": "Financial status",
+        "B": "Loyalty to political parties",
+        "C": "Knowledge, efficiency, and competence",
+        "D": "Religious commitment"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 37,
+      "question": "Which ministry works closely with the Federal Civil Service Commission during employment processes?",
+      "options": {
+        "A": "Ministry of Justice",
+        "B": "Ministry of Finance",
+        "C": "Ministry of Labour and Employment",
+        "D": "Ministry of Foreign Affairs"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 38,
+      "question": "What role does the Office of the Head of Civil Service play in recruitment?",
+      "options": {
+        "A": "Coordinates employment at local governments",
+        "B": "Recruits ministers",
+        "C": "Provides policy guidance for civil service employment",
+        "D": "Issues employment letters"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 39,
+      "question": "What is the legal age of retirement for civil servants in Nigeria, except for judicial and academic staff?",
+      "options": {
+        "A": "60 years",
+        "B": "55 years",
+        "C": "65 years",
+        "D": "70 years"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 40,
+      "question": "When civil servants violate established rules, they are subject to:",
+      "options": {
+        "A": "Transfer",
+        "B": "Disciplinary action",
+        "C": "Award",
+        "D": "Promotion"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 41,
+      "question": "Which of these is a key value promoted in the Nigerian Civil Service?",
+      "options": {
+        "A": "Partisanship",
+        "B": "Loyalty to politicians",
+        "C": "Accountability",
+        "D": "Tribal loyalty"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 42,
+      "question": "What is the primary legislative framework guiding civil service operations in Nigeria?",
+      "options": {
+        "A": "Federal Gazette",
+        "B": "Public Service Rules",
+        "C": "National Budget",
+        "D": "Labour Union Constitution"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 43,
+      "question": "The Civil Service Annual Performance Evaluation Report is also known as:",
+      "options": {
+        "A": "Performance Letter",
+        "B": "APER",
+        "C": "FCSC Memo",
+        "D": "Civil Progress Sheet"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 44,
+      "question": "One of the major goals of the Federal Civil Service Commission is to:",
+      "options": {
+        "A": "Collect taxes",
+        "B": "Build roads",
+        "C": "Ensure a merit-based civil service",
+        "D": "Operate political campaigns"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 45,
+      "question": "The Civil Service is expected to operate under which of the following leadership styles?",
+      "options": {
+        "A": "Dictatorship",
+        "B": "Democratic leadership",
+        "C": "Autocratic style",
+        "D": "Military rule"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 46,
+      "question": "In which year did Nigeria implement the Udoji Civil Service Reforms?",
+      "options": {
+        "A": "1963",
+        "B": "1974",
+        "C": "1988",
+        "D": "1999"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 47,
+      "question": "A major concern addressed by civil service reforms in Nigeria is:",
+      "options": {
+        "A": "Construction of housing",
+        "B": "Involvement in partisan politics",
+        "C": "Overstaffing and redundancy",
+        "D": "Rising foreign debt"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 48,
+      "question": "Which of the following is a challenge facing the Nigerian Civil Service?",
+      "options": {
+        "A": "Too many private companies",
+        "B": "High level of automation",
+        "C": "Bureaucratic bottlenecks",
+        "D": "Military takeovers"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 49,
+      "question": "A person employed by the FCSC is expected to serve under:",
+      "options": {
+        "A": "The president directly",
+        "B": "A private contractor",
+        "C": "A ministry, department, or agency",
+        "D": "Local government chairmen"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 50,
+      "question": "The FCSC is classified under which sector of the economy?",
+      "options": {
+        "A": "Informal sector",
+        "B": "Private sector",
+        "C": "Public sector",
+        "D": "Commercial sector"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 51,
+      "question": "Transfer of service in the civil service allows civil servants to:",
+      "options": {
+        "A": "Retire early",
+        "B": "Move from private to public sector",
+        "C": "Migrate abroad",
+        "D": "Move from one MDA to another"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 52,
+      "question": "Which of these reports is critical to confirming an officer's appointment after probation?",
+      "options": {
+        "A": "Medical report",
+        "B": "Confirmation of appointment form",
+        "C": "Disciplinary report",
+        "D": "APER form"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 53,
+      "question": "Civil servants must declare their assets as required by the:",
+      "options": {
+        "A": "EFCC Act",
+        "B": "Public Service Code",
+        "C": "Code of Conduct Bureau",
+        "D": "ICPC Guidelines"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 54,
+      "question": "During promotion, a civil servant's APER score must be at least:",
+      "options": {
+        "A": "Fair",
+        "B": "Good",
+        "C": "Very Good",
+        "D": "Excellent"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 55,
+      "question": "The term \"Establishment Department\" in a ministry deals with:",
+      "options": {
+        "A": "Legal matters",
+        "B": "Construction projects",
+        "C": "Staff records and service matters",
+        "D": "Procurement"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 56,
+      "question": "Secondment in the civil service refers to:",
+      "options": {
+        "A": "Job termination",
+        "B": "Voluntary resignation",
+        "C": "Temporary posting to another organization",
+        "D": "Promotion to a higher level"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 57,
+      "question": "Retirement benefits for civil servants include:",
+      "options": {
+        "A": "Loans",
+        "B": "Salaries",
+        "C": "Pensions and gratuities",
+        "D": "Vehicle allowances"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 58,
+      "question": "What is a major criterion for promotion in the Federal Civil Service?",
+      "options": {
+        "A": "Number of friends in the ministry",
+        "B": "Years of experience and performance",
+        "C": "Political campaign participation",
+        "D": "Place of origin"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 59,
+      "question": "The National Council on Establishments plays a role in:",
+      "options": {
+        "A": "Awarding contracts",
+        "B": "Standardizing job cadres and salary structures",
+        "C": "Managing elections",
+        "D": "Disbursing loans"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 60,
+      "question": "Which of the following is a statutory body under the Presidency that helps implement reforms in the Civil Service?",
+      "options": {
+        "A": "ICPC",
+        "B": "SERVICOM",
+        "C": "INEC",
+        "D": "NAFDAC"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 61,
+      "question": "One of the basic principles guiding civil service operations is:",
+      "options": {
+        "A": "Political activism",
+        "B": "Confidentiality",
+        "C": "Foreign policy",
+        "D": "Judicial review"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 62,
+      "question": "Which organ approves the establishment of new posts in the Federal Civil Service?",
+      "options": {
+        "A": "Ministry of Budget and Planning",
+        "B": "National Assembly",
+        "C": "Office of the Head of Civil Service of the Federation",
+        "D": "Federal Civil Service Commission"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 63,
+      "question": "The document that contains detailed information about job positions in the civil service is called:",
+      "options": {
+        "A": "Government Gazette",
+        "B": "Scheme of Service",
+        "C": "Budget Estimate",
+        "D": "Promotion List"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 64,
+      "question": "In the Civil Service, a query is issued to:",
+      "options": {
+        "A": "Recommend an officer",
+        "B": "Dismiss a staff automatically",
+        "C": "Call for clarification or explanation of misconduct",
+        "D": "Announce training programs"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 65,
+      "question": "The process of placing an officer on a lower rank for misconduct is called:",
+      "options": {
+        "A": "Promotion",
+        "B": "Suspension",
+        "C": "Demotion",
+        "D": "Transfer"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 66,
+      "question": "What is the term used when an officer is placed on hold from duty pending investigation?",
+      "options": {
+        "A": "Leave",
+        "B": "Suspension",
+        "C": "Posting",
+        "D": "Study break"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 67,
+      "question": "The instrument used to determine civil service salary structure is known as:",
+      "options": {
+        "A": "Revenue Allocation Formula",
+        "B": "Wage Policy Report",
+        "C": "Consolidated Public Service Salary Structure (CONPSS)",
+        "D": "Civil Service Allowance Guide"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 68,
+      "question": "A civil servant can be dismissed for all of the following EXCEPT:",
+      "options": {
+        "A": "Fraud",
+        "B": "Gross misconduct",
+        "C": "Lateness",
+        "D": "Resignation"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 69,
+      "question": "Probationary period for new civil servants usually lasts for:",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "2 years"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 70,
+      "question": "What action follows the successful completion of probation in the civil service?",
+      "options": {
+        "A": "Dismissal",
+        "B": "Confirmation of appointment",
+        "C": "Transfer",
+        "D": "Retirement"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 71,
+      "question": "When a civil servant fails to perform assigned duties satisfactorily, it is termed:",
+      "options": {
+        "A": "Efficiency",
+        "B": "Redundancy",
+        "C": "Incompetence",
+        "D": "Flexibility"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 72,
+      "question": "Civil servants are usually advised to attend training workshops to improve:",
+      "options": {
+        "A": "Political views",
+        "B": "Social media usage",
+        "C": "Professional skills",
+        "D": "Religious beliefs"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Civil servants must refrain from engaging in:",
+      "options": {
+        "A": "Community projects",
+        "B": "Religious gatherings",
+        "C": "Political campaigns",
+        "D": "Sports events"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 74,
+      "question": "The term used for a civil servant retiring before reaching the age or years of service limit is:",
+      "options": {
+        "A": "Compulsory retirement",
+        "B": "Normal retirement",
+        "C": "Voluntary retirement",
+        "D": "Contract appointment"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 75,
+      "question": "Who provides policy direction for the Nigerian Civil Service?",
+      "options": {
+        "A": "Ministry of Defence",
+        "B": "National Assembly",
+        "C": "Head of Civil Service of the Federation",
+        "D": "Minister of State"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 76,
+      "question": "What is the full meaning of FCSC?",
+      "options": {
+        "A": "Federal Commission for State Contracts",
+        "B": "Federal Civil Service Commission",
+        "C": "Federal Civil Servants' Club",
+        "D": "Federal Civil Support Committee"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 77,
+      "question": "Civil service appointments are mostly based on which criteria?",
+      "options": {
+        "A": "Popularity and connections",
+        "B": "Region and religion",
+        "C": "Qualification and merit",
+        "D": "Political appointment"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 78,
+      "question": "Promotion examination in the civil service is coordinated by:",
+      "options": {
+        "A": "Ministry of Education",
+        "B": "National Universities Commission",
+        "C": "Federal Civil Service Commission",
+        "D": "Code of Conduct Bureau"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 79,
+      "question": "A civil servant may be posted from one ministry to another through a process called:",
+      "options": {
+        "A": "Retirement",
+        "B": "Confirmation",
+        "C": "Deployment",
+        "D": "Suspension"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 80,
+      "question": "What is the purpose of the 'Open Registry' in civil service administration?",
+      "options": {
+        "A": "To track office furniture",
+        "B": "To monitor staff attendance",
+        "C": "To maintain staff records",
+        "D": "To compile budget figures"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 81,
+      "question": "Which of the following promotes fairness in civil service employment?",
+      "options": {
+        "A": "Length of name",
+        "B": "Federal Character Principle",
+        "C": "Seniority rule",
+        "D": "Political zoning"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 82,
+      "question": "Which commission handles appeals from civil servants against disciplinary actions?",
+      "options": {
+        "A": "National Industrial Court",
+        "B": "Code of Conduct Bureau",
+        "C": "Federal Civil Service Commission",
+        "D": "Public Complaints Commission"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 83,
+      "question": "Which of the following documents is essential before a civil servant can retire?",
+      "options": {
+        "A": "Birth certificate",
+        "B": "Marriage certificate",
+        "C": "Retirement notification letter",
+        "D": "Voter's card"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 84,
+      "question": "What is the correct process for promotion in the civil service?",
+      "options": {
+        "A": "Personal lobbying",
+        "B": "Political recommendation",
+        "C": "Examination and performance appraisal",
+        "D": "Length of time alone"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 85,
+      "question": "The confidentiality rule in civil service prohibits civil servants from:",
+      "options": {
+        "A": "Using mobile phones",
+        "B": "Sharing internal government information",
+        "C": "Attending workshops",
+        "D": "Going on annual leave"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 86,
+      "question": "What does the acronym MDAs stand for in relation to the civil service?",
+      "options": {
+        "A": "Military, Defence, and Agencies",
+        "B": "Ministries, Departments, and Agencies",
+        "C": "Monetary, Developmental, and Associations",
+        "D": "Media, Directives, and Accounts"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 87,
+      "question": "Which of the following is a non-statutory appointment in the civil service?",
+      "options": {
+        "A": "Permanent Secretary",
+        "B": "Clerical Officer",
+        "C": "Director",
+        "D": "Political Adviser"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 88,
+      "question": "The Civil Service Commission ensures that recruitment is based on:",
+      "options": {
+        "A": "Physical fitness",
+        "B": "Religious belief",
+        "C": "Qualification and merit",
+        "D": "Political representation"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 89,
+      "question": "An officer found guilty of gross misconduct may be:",
+      "options": {
+        "A": "Warned",
+        "B": "Promoted",
+        "C": "Dismissed",
+        "D": "Rewarded"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 90,
+      "question": "What system does the Nigerian Civil Service use to classify its jobs and positions?",
+      "options": {
+        "A": "Skill-based framework",
+        "B": "Job specification system",
+        "C": "Grade Level Structure",
+        "D": "Educational background only"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 91,
+      "question": "What does the annual APER form assess?",
+      "options": {
+        "A": "Officer's vacation schedule",
+        "B": "Officer's monthly expenses",
+        "C": "Officer's performance",
+        "D": "Officer's religion"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 92,
+      "question": "Civil servants can be sponsored for higher education through:",
+      "options": {
+        "A": "Direct bank loans",
+        "B": "Private donations",
+        "C": "Study leave with or without pay",
+        "D": "Federal pension schemes"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 93,
+      "question": "Who approves final disciplinary measures like dismissal in the Civil Service?",
+      "options": {
+        "A": "The Senate",
+        "B": "Permanent Secretary",
+        "C": "Federal Civil Service Commission",
+        "D": "Accountant-General"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 94,
+      "question": "When a civil servant absconds from duty without permission, it is considered:",
+      "options": {
+        "A": "Retirement",
+        "B": "Disengagement",
+        "C": "Misconduct",
+        "D": "Official transfer"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 95,
+      "question": "Circulars in the civil service are meant to:",
+      "options": {
+        "A": "Promote workers",
+        "B": "Announce public holidays",
+        "C": "Provide policy guidelines and updates",
+        "D": "Register employees"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 96,
+      "question": "Civil servants are expected to display which of the following traits?",
+      "options": {
+        "A": "Aggressiveness",
+        "B": "Integrity",
+        "C": "Nepotism",
+        "D": "Secrecy"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 97,
+      "question": "Which of the following is NOT a mode of entry into the civil service?",
+      "options": {
+        "A": "Direct employment",
+        "B": "Transfer of service",
+        "C": "Absorption",
+        "D": "Election"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 98,
+      "question": "What happens to a civil servant who reaches the retirement age but refuses to leave?",
+      "options": {
+        "A": "Promotion",
+        "B": "Extension without approval",
+        "C": "Compulsory retirement",
+        "D": "Increase in salary"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 99,
+      "question": "Civil servants can appeal disciplinary decisions through the:",
+      "options": {
+        "A": "Federal Road Safety Corps",
+        "B": "Federal Civil Service Commission",
+        "C": "National Youth Council",
+        "D": "Electoral Tribunal"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 100,
+      "question": "The success of the Civil Service Commission depends largely on:",
+      "options": {
+        "A": "Public complaints",
+        "B": "Proper record keeping and transparency",
+        "C": "Favoritism",
+        "D": "Outsourcing jobs"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 101,
+      "question": "What is the key difference between dismissal and termination in civil service?",
+      "options": {
+        "A": "Termination is temporary; dismissal is permanent",
+        "B": "Dismissal is disciplinary; termination may not be",
+        "C": "Termination allows pension; dismissal does not",
+        "D": "Both have the same meaning"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 102,
+      "question": "What is the role of the Establishment and Records Department in civil service?",
+      "options": {
+        "A": "Pay pensions",
+        "B": "Manage personnel records and appointments",
+        "C": "Organize elections",
+        "D": "Print official gazettes"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 103,
+      "question": "Which of the following is an example of misconduct in the civil service?",
+      "options": {
+        "A": "Applying for leave",
+        "B": "Reporting late consistently",
+        "C": "Taking professional courses",
+        "D": "Asking for feedback"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 104,
+      "question": "A junior officer disrespecting a senior officer constitutes:",
+      "options": {
+        "A": "A promotion offence",
+        "B": "Gross misconduct",
+        "C": "Healthy conflict",
+        "D": "Friendly banter"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 105,
+      "question": "One of the ways the FCSC ensures transparency in recruitment is through:",
+      "options": {
+        "A": "Family interviews",
+        "B": "Open advertisement of vacancies",
+        "C": "Secret employment",
+        "D": "Selective invitation"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 106,
+      "question": "Civil servants who reach the mandatory retirement age are entitled to:",
+      "options": {
+        "A": "Loans",
+        "B": "Leave bonuses",
+        "C": "Pension and gratuity",
+        "D": "Severance pay only"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}
